@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_5 {
+public class Product {
     private String name;
     private double price;
     private int warrantyPeriod;
@@ -30,7 +30,7 @@ public class Exercise_5 {
     }
 
     public static void main(String[] args) {
-        Exercise_5 product = new Exercise_5();
+        Product product = new Product();
 
         // Введення даних про товар
         product.enterData();
