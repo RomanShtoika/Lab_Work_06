@@ -63,10 +63,27 @@ git clone https://github.com/RomanShtoika/Lab_Work_06
 
 Task_1: <br>
 
+![1](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/c31abde0-16e8-424e-a88c-f771b86480b6)
 
+Task_2: <br>
 
+![2](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/1cc9b7ad-a90d-4f7c-a7d9-9252f1e58f22)
 
+Task_3: <br>
 
+![3](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/a163d97d-ed9a-4e70-90f3-923e4d8b6104)
+
+Task_4: <br>
+
+![4](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/1118f746-cb99-4c12-a46f-799afff10108)
+
+Task_5: <br>
+
+![5](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/ad9ba7e2-63c0-451c-ab66-04e345c5f459)
+
+Task_5.10: <br>
+
+![5 1](https://github.com/RomanShtoika/Lab_Work_06/assets/135036174/e3bd9447-2ac3-4b34-899c-f956c258dbb0)
 
 # Support
 
